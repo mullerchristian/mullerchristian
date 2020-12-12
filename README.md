@@ -2,8 +2,8 @@
 
 #Titulo
 
-♐ Saggitarius
-✈ Me gusta Viajar
+-♐ Saggitarius
+-✈ Me gusta Viajar
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
